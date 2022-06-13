@@ -1,0 +1,13 @@
+/*
+ *
+ *  * @ author ( Zikiy Vadim )
+ *  * @ site http://online-services.org.ua
+ *  * @ name
+ *  * @ copyright Copyright (C) 2016 All rights reserved.
+ *
+ */
+
+#customize-control-vdz_simple_css_code .CodeMirror-scroll{
+    margin-right: 0px;
+}
+.CodeMirror-hints{z-index:100000000 !important;}
